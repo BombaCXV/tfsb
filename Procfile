@@ -1,1 +1,1 @@
-worker: python tfsb.py
+worker: python fspb.py
